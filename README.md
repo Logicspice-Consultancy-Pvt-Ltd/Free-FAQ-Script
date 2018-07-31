@@ -5,7 +5,7 @@ A script is created for creating applications with [CakePHP](http://cakephp.org)
 
 The framework source code can be found here: [cakephp/cakephp](https://github.com/cakephp/cakephp).
 
-# for any enquiry please  email at info@logicspice.com
+for any enquiry please email at info@logicspice.com
 
 ## Installation
 
